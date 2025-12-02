@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "愛とU",
+  "base_artist": "Mega Shinnosuke",
+  "createdAt": "2025-12-02T08:08:12.011092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛とU",
+      "artist": "Mega Shinnosuke",
+      "has_synced": true,
+      "path": "select/01_愛とU_Mega_Shinnosuke.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛とU - Ai To U",
+      "artist": "Mega Shinnosuke",
+      "has_synced": true,
+      "path": "select/02_愛とU_-_Ai_To_U_Mega_Shinnosuke.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛とU (Sped Up Ver.) - Ai To U (Sped Up Ver.)",
+      "artist": "Mega Shinnosuke",
+      "has_synced": true,
+      "path": "select/03_愛とU_(Sped_Up_Ver.)_-_Ai_To_U_(Sped_Up_Ver.)_Mega_Shinnosuke.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛とU - Sped Up Ver.",
+      "artist": "Mega Shinnosuke",
+      "has_synced": true,
+      "path": "select/04_愛とU_-_Sped_Up_Ver._Mega_Shinnosuke.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛とU (Sped Up Ver.)",
+      "artist": "Mega Shinnosuke",
+      "has_synced": true,
+      "path": "select/05_愛とU_(Sped_Up_Ver.)_Mega_Shinnosuke.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛とU",
+      "artist": "Mega Shinnosuke",
+      "has_synced": false,
+      "path": "select/pl_01_愛とU_Mega_Shinnosuke.txt"
+    }
+  ]
+}
